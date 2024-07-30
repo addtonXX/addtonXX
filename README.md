@@ -4,7 +4,7 @@ Hi 👋 My name is Puthipong Thararom
 Mobile Developer-Flutter junior
 -------------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+I've been learning to code for 3 month
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [tonmanza33@gmail.com](mailto:tonmanza33@gmail.com)

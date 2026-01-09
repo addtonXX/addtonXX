@@ -8,7 +8,7 @@ I've been learning to code for 3 month
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [tonmanza33@gmail.com](mailto:tonmanza33@gmail.com)
-* 🧠  I'm learning a new flutter
+* 🧠  I'm learning a new rols systeam admin
 * ⚡  I have experience it support 3 year at TMBThanachart Bank 
 
 ### Skills

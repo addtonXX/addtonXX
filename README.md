@@ -1,7 +1,7 @@
 Hi 👋 My name is Puthipong Thararom
 ===================================
 
-Mobile Developer-Flutter junior
+it support&systeam admin
 -------------------------------
 
 I've been learning to code for 3 month

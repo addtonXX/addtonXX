@@ -1,7 +1,7 @@
 Hi 👋 My name is Puthipong Thararom
 ===================================
 
-it support&systeam admin
+it supportNetwork junior
 -------------------------------
 
 I've been learning to code for 3 month
